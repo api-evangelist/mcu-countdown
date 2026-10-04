@@ -39,7 +39,6 @@ apis:
   - name: MCU Countdown
     description: "A Countdown to the next MCU Film"
     humanURL: https://github.com/DiljotSG/MCU-Countdown
-    baseURL: https://github.com/DiljotSG/MCU-Countdown
     tags:
       - Video
     properties:
